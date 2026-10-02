@@ -1,0 +1,6 @@
+{
+  "name": "Universo da Química",
+  "description": "Pare de perder horas criando atividades de Química do zero. Tenha 300 atividades prontas para aplicar, adaptar ou imprimir para o Ensino Médio com 4 bônus exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
